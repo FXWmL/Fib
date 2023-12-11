@@ -5,7 +5,7 @@
 \alias{Fibonacci}
 \title{Fibonacci}
 \usage{
-Fibonacci(n)
+Fibonacci(x)
 }
 \description{
 This package is used to calculate Fibonacci number
