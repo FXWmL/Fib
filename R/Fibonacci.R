@@ -1,10 +1,10 @@
 #' Fibonacci
 #'
-#' 计算Fibonacci数列
+#' Fibonacci number
 #'
-#' Fibonacci数列 @keywords
-#' @param n 从多少开始计算
-#' @return 返回结果
+#' Fibonacci @keywords
+#' @param n
+#' @return
 #' @examples
 #' Fibonacci(10)
 

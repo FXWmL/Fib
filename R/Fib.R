@@ -1,8 +1,8 @@
 #' Fibonacci
 #'
-#' 该包适用于计算Fibonacci序列
+#' This package is used to calculate Fibonacci number
 #' @section Fibonacci Functions:
-#' Fibonacci Functions 有一个参数
+#' Fibonacci Functions
 #'
 #' @docType package
 #' @name Fibonacci
