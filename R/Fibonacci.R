@@ -3,7 +3,7 @@
 #' Fibonacci number
 #'
 #' Fibonacci @keywords
-#' @param n
+#' @param x
 #' @return
 #' @examples
 #' Fibonacci(10)
@@ -11,7 +11,7 @@
 
 
 
-Fibonacci = function(n){
+Fibonacci = function(x){
   if (x ==1 || x == 2){
     return(1)
   }else{
